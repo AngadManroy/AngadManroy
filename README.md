@@ -1,5 +1,4 @@
-### Good Greetings! I am a Senior Year Computer Science Student looking to create some interesting projects and make contributions in trending technologies like BlockChain, IoT, Machine Learning...
-### Flutterrrr is what I'd like to do in my Downtime.
+### Good Greetings! I am a Young Full Stack Engineer.
 
 - 🔭 I’m currently working on a decentralised micropayments distribution application.
 - 🌱 I’m currently learning BlockChain and DSA.
